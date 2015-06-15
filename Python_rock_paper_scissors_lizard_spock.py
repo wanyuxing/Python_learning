@@ -1,4 +1,6 @@
-# Rock-paper-scissors-lizard-Spock by Henry Wan
+''' This program is only workable on CodeSkulptor
+Rock-paper-scissors-lizard-Spock by Henry Wan
+'''
 
 import random
 

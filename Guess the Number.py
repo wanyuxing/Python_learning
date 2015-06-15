@@ -1,4 +1,6 @@
-# Mini-project - Week 2 "Guess the Number" Game - Henry Wan
+''' This program is only workable on CodeSkulptor
+Mini-project - Week 2 "Guess the Number" Game - Henry Wan
+'''
 
 # Import modules
 
